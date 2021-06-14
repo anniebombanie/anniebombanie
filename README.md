@@ -1,4 +1,4 @@
-## 👋 G'day, I'm Annie🦄⚡️!
+## 👋 G'day, I'm Annie🦄⚡️
 
 
 I'm a designer x developer from 🇦🇺, currently living in 🇨🇦. I work at a [start-up](https://usepastel.com) where I wear a lot of hats.
