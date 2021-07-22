@@ -12,6 +12,12 @@ I like rainy days and think people are cool.
 
 [<img alt="Twitter" src="https://img.shields.io/badge/anniebombanie_%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/anniebombanie_) [<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>](https://anniebombanie.medium.com/)
 
+### Popular Blog Posts
+* 10 Lessons to Help You Excel in Your Developer Career(https://blog.anniebombanie.com/10-lessons-to-help-you-excel-in-your-developer-career)
+* How Three Months of Pair-Programming Has Impacted My Developer Career(https://blog.anniebombanie.com/how-three-months-of-pair-programming-impacted-my-developer-career)
+* CSS/SVG Art & Animation: A Curated Collection of Useful Resources & Tutorials(https://blog.anniebombanie.com/css-svg-art-animation-a-curated-collection-of-useful-resources-tutorials)
+* Getting Your First Coveted Tech Job: Advice from Senior Developers, Hiring Managers & Industry Recruiters(https://blog.anniebombanie.com/getting-your-first-coveted-tech-job-advice-from-senior-developers-hiring-managers-industry-recruiters)
+
 <!--
 **anniebombanie/anniebombanie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
