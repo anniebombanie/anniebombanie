@@ -10,7 +10,7 @@ I like rainy days and think people are cool ⛈🥰
 
 ### You can also find me here on the interwebs
 
-[<img alt="Twitter" src="https://img.shields.io/badge/anniebombanie_%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/anniebombanie_) [<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>](https://anniebombanie.medium.com/)
+[<img alt="Twitter" src="https://img.shields.io/badge/anniebombanie_%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/anniebombanie_) [<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>](https://anniebombanie.medium.com/) [<img alt="CodePen" src:="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>](https://codepen.io/anniebombanie)
 
 ### Popular Blog Posts
 * [10 Lessons to Help You Excel in Your Developer Career](https://blog.anniebombanie.com/10-lessons-to-help-you-excel-in-your-developer-career?source=annie)
