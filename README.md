@@ -1,7 +1,7 @@
 ## 👋 G'day, I'm Annie🦄⚡️
 
 
-I'm a designer x developer from 🇦🇺, currently living in 🇨🇦. I work at a [start-up](https://usepastel.com) where I wear a lot of hats.
+I'm a designer x developer from 🇦🇺, currently living in 🇨🇦. I work at a [startup](https://usepastel.com) where I wear a lot of hats.
 I like rainy days and think people are cool ⛈🥰
 
 ### I use these bad boys to make stuff
@@ -13,6 +13,7 @@ I like rainy days and think people are cool ⛈🥰
 [<img alt="Twitter" src="https://img.shields.io/badge/anniebombanie_%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/anniebombanie_) [<img alt="CodePen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>](https://codepen.io/anniebombanie) [<img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>](https://blog.anniebombanie.com/) [<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>](https://anniebombanie.medium.com/)
 
 ### Popular Blog Posts
+* [Why I Turned Down a Six-Figure Salary in Big Tech to Stay at a Five-Person Startup](https://blog.anniebombanie.com/why-i-turned-down-a-six-figure-salary-in-big-tech-to-stay-at-a-five-person-startup?source=annie)
 * [10 Lessons to Help You Excel in Your Developer Career](https://blog.anniebombanie.com/10-lessons-to-help-you-excel-in-your-developer-career?source=annie)
 * [How Three Months of Pair-Programming Has Impacted My Developer Career](https://blog.anniebombanie.com/how-three-months-of-pair-programming-impacted-my-developer-career?source=annie)
 * [CSS/SVG Art & Animation: A Curated Collection of Useful Resources & Tutorials](https://blog.anniebombanie.com/css-svg-art-animation-a-curated-collection-of-useful-resources-tutorials?source=annie)
