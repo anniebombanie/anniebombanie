@@ -11,9 +11,11 @@ I like rainy days and think people are cool ⛈🥰
 ### You can also find me here on the interwebs
 
 [<img alt="Annie on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/anniebombanie_)
-[<img alt="Annie on CodePen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>](https://codepen.io/anniebombanie) [<img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>](https://blog.anniebombanie.com/)
-[<img alt="Annie on Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>](https://anniebombanie.medium.com/)
+[<img alt="Annie on CodePen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>](https://codepen.io/anniebombanie)
 [<img alt="Annie on Polywork" src="https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white"/>](https://updates.anniebombanie.com/)
+[<img alt="Annie on Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>](https://anniebombanie.medium.com/)
+[<img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>](https://blog.anniebombanie.com/)
+[<img alt="Annie on Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>](https://dev.to/anniebombanie)
 [<img alt="Annie on FreeCodeCamp" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/>](https://www.freecodecamp.org/news/author/anniebombanie/)
 
 ### Popular Blog Posts
